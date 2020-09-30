@@ -1,4 +1,4 @@
-#App description
+# App description
 
 This app lets a user input their custom settings for their pour over setup including the type of brewer 
 being used, the roast type, the ratio of coffee to water, the amount of coffee, and the number of pours used.
